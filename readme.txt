@@ -1,6 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Hello,Git!
-Creating a new branch is quick and simple.
-No use Fast forward.
-Bug is fixed.
+Git is free software.
